@@ -1,9 +1,4 @@
-/*
- *  GRAFO.h - definicion de la clase GRAFO
- *
- *  Autor : Antonio Sedeno Noda, Sergio Alonso
- *  Curso 2019-2020
- */
+
 
 #ifndef _GRAPH_H
 #define _GRAPH_H
