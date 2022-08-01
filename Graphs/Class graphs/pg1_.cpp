@@ -1,10 +1,3 @@
- /*
- *  PG1.CPP - Actividad I de Optimiza!cion.
- *
- *
- *               Autores : Antonio Sedeno Noda, Sergio Alonso.
- *               Fecha : Marzo-2020
- */
 
 #include <string.h>
 #include "grafo.h"
