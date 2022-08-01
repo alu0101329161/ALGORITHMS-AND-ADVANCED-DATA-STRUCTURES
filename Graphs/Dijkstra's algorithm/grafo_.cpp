@@ -1,10 +1,5 @@
-﻿ /*
- *  GRAFO.CPP - Implementación de la clase GRAFOS
- *
- *
- *  Autor : Antonio Sedeno Noda, Sergio Alonso
- *  Fecha : 2013-2020
- */
+
+
 
 #include "grafo.h"
 
